@@ -2,4 +2,4 @@
 
 Useful Python automation scripts
 
-Update 1 by mhput7x1.
+Update 2 by xirzczlt.
